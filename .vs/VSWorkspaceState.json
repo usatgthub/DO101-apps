@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\weather",
+    "\\weather\\routes",
+    "\\weather\\views"
+  ],
+  "SelectedNode": "\\weather\\views\\index.pug",
+  "PreviewInSolutionExplorer": false
+}
